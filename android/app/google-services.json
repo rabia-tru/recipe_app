@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676520421303",
+    "project_id": "fire-setup-c52bd",
+    "storage_bucket": "fire-setup-c52bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676520421303:android:93fd8fda54b2537810aa32",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjqb_0BJ1eBJ_NWa7lUqcOEhXOiv-jes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676520421303:android:07eee7dcfb269e3210aa32",
+        "android_client_info": {
+          "package_name": "com.example.tur_awake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjqb_0BJ1eBJ_NWa7lUqcOEhXOiv-jes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
